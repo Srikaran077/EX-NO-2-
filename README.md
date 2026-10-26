@@ -160,7 +160,7 @@ int main() {
 
 
 ## Output:
-<img width="1481" height="890" alt="image" src="https://github.com/user-attachments/assets/4930cf6c-b36b-4751-9c4a-680d87c3afea" />
+<img width="407" height="505" alt="image" src="https://github.com/user-attachments/assets/2972fa97-7b16-423d-be62-c4bb62697c89" />
 
 
 ## Result
